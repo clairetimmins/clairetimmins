@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development and python code!
 - 🌱 I’m currently learning software engineering agile development, emergin topics in applied data science, and interactive design with building mobile and web applications
 - 💞️ I’m looking to collaborate on different projects involving development and code.
+-  jdnfkicnmdlvmjb fcm
 - 📫 How to reach me: E-Mail: timmins.claire13@gmail.com
 
 <!---
